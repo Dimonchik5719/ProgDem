@@ -1,0 +1,12 @@
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\bin\Debug\DemProg.exe.config
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\bin\Debug\DemProg.exe
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\bin\Debug\DemProg.pdb
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\obj\Debug\DemProg.Form1.resources
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\obj\Debug\DemProg.Form2.resources
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\obj\Debug\DemProg.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\obj\Debug\DemProg.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\obj\Debug\DemProg.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\obj\Debug\DemProg.exe
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\obj\Debug\DemProg.pdb
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\obj\Debug\DemProg.Form3.resources
+C:\Users\Дмитрий\source\repos\DemProg\DemProg\obj\Debug\DemProg.csprojAssemblyReference.cache
